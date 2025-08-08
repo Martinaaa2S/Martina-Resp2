@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pisayanist Profile</title>
+    
 </head>
 <body style="background-color: rgba(241, 171, 214, 0.986);">
     <img src="PSHS_System_Logo.png" width="90" height="90">
